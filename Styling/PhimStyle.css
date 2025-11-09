@@ -24,12 +24,10 @@ a {
     text-decoration: none;
     transition: color 0.3s ease-in-out; 
 }
-
 a:hover {
     color: #f39c12; 
     text-decoration: underline; 
 }
-
 .Author {
     position: fixed;
     bottom: 10px;
